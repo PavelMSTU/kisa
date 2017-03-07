@@ -1,0 +1,4 @@
+# kisa
+KeyboardInterruptSystemExit
+
+Sometimes
